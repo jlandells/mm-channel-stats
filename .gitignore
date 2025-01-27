@@ -23,3 +23,7 @@ go.work.sum
 
 # env file
 .env
+
+c*.json
+*.csv
+mm-channel-stats_*
